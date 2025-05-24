@@ -76,6 +76,8 @@ h1{
 }
 .grant-location-container.active{
     display: flex;
+    margin-left: 40%;
+    margin-bottom: 10px;
 }
 
 .grant-location-container img{
